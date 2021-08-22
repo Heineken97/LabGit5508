@@ -1,3 +1,7 @@
 Eddie Vedder
+<<<<<<< HEAD
 Billie Eilish
+=======
+Kurt Cobain
+>>>>>>> 0e1cb5daddd8274093394f6a33f1a0a9be2210f5
 
